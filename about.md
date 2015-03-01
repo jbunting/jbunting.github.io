@@ -4,8 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a software developer. I am passionate about it. I also have a few other
+interests -- including electronics, woodworking, leatherworking, and general
+tinkering. I am maintaining this blog in order to have a single place to
+record things I learn or think about in the course of pursuing these
+interests. Perhaps in the process I can share something insightful with others
+who may share one of my interests.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I make no guarantees except that I intend to update on an irregular basis, and
+everything that I post will be of some interest to me. I don't consider myself
+a great writer, but I hope that my skills in that department improve as I go.
