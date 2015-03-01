@@ -1,14 +1,21 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: bunting.io
+email: jared@bunting.io
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a software developer. I am passionate about it. I also have a few other 
+  interests -- including electronics, woodworking, leatherworking, and general 
+  tinkering. I am maintaining this blog in order to have a single place to 
+  record things I learn or think about in the course of pursuing these 
+  interests. Perhaps in the process I can share something insightful with others 
+  who may share one of my interests. 
+
+  I make no guarantees except that I intend to update on an irregular basis, and
+  everything that I post will be of some interest to me. I don't consider myself
+  a great writer, but I hope that my skills in that department improve as I go.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bunting.io" # the base hostname & protocol for your site
+twitter_username: jwbunt
+github_username:  jbunting
 
 # Build settings
 markdown: kramdown
