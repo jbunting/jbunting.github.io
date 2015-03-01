@@ -12,3 +12,7 @@ github_username:  jbunting
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  input: GFM
+
